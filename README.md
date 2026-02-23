@@ -1,35 +1,37 @@
+<!-- CARBON FIBRE BACKGROUND -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Aliph-Null&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ff2e2e&color=0:0f0f0f,50:1a1a1a,100:0f0f0f" />
+</div>
+
+<!-- SUBTLE MAPLE LEAF OVERLAY -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ff3b3b&center=true&vCenter=true&width=700&lines=$+sudo+become+developer+-gud;Create+from+nothingness...;Compile+yourself..." />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=$+sudo+become+developer+-gud;Create+from+nothingness...;Compile+yourself..." />
-</h1>
-
+<!-- CARBON STRIPE SEPARATOR -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:111111&height=3&section=header"/>
+</p>
 
 ```bash
 > whoami
 Aliph-Null
 
 > role
-Architect of logic. Builder of systems. Engineer of worlds.
+Architect of oneself...
 
 > philosophy
-Create from nothingness
+Create from nothingness...
+
+> status_quote
+Leveling up daily...
 
 > current_status
-Leveling up daily...
+Compiling...
 ```
 
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60"/> <img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/> </div>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aliph-Null&theme=tokyonight&hide_border=true&include_all_commits=true"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliph-Null&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-
-<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/> </p>
-
-<p align="center"> <a href="https://www.linkedin.com/in/denis-bodrug/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://patreon.com/Aliph_Null"> <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/> </a> </p>
-
-
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aliph-Null&theme=radical&hide_border=true&include_all_commits=true&title_color=ff2e2e&text_color=ffffff&icon_color=ff2e2e&bg_color=0d0d0d"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=dark&hide_border=true&ring=ff2e2e&fire=ff2e2e&currStreakLabel=ff2e2e&background=0d0d0d"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliph-Null&layout=compact&hide_border=true&title_color=ff2e2e&text_color=ffffff&bg_color=0d0d0d"/> </p>
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=5&theme=dark&title_color=ff2e2e&bg_color=0d0d0d&combine_all_yearly_contributions=true"/> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/denis-bodrug/"> <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ff2e2e"/> </a> <a href="https://patreon.com/Aliph_Null"> <img src="https://img.shields.io/badge/Patreon-1a1a1a?style=for-the-badge&logo=patreon&logoColor=ff2e2e"/> </a> </p>
+<!-- FOOTER WAVE --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0f0f,50:1a0000,100:0f0f0f"/> </p> 
