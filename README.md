@@ -40,7 +40,7 @@ Compiling...
 <p align="center"><br></p>
 
 <p align="center"> 
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=shadow_red&hide_border=true&ring=f24040&fire=fa3a05&currStreakLabel=fa3a05&sideLabels=990302&dates=8b8b8b&text_color=8b8b8b&background=00000000"/>
+	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=shadow_red&hide_border=true&ring=f24040&fire=f16741&currStreakLabel=f24040&sideLabels=990302&dates=676767&text_color=EFEFEF&background=00000000"/>
 </p>
 
 <p align="center">
