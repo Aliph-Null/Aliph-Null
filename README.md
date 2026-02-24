@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Aliph%20Null&animation=fadeIn&type=waving&color=0:CB2D3E,50:EF473A,100:FF4545&fontColor=ffffff&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Aliph%20Null&animation=fadeIn&type=waving&color=0:CB2D3E,50:EF473A,100:FF4545&fontColor=ffffffaa&height=100"/>
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ff3b3b&center=true&vCenter=true&width=700&lines=$+sudo+become+developer+-gud;Create+from+nothingness...;Compile+yourself..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5555af&center=true&vCenter=true&width=700&lines=$+sudo+become+developer+-gud;Create+from+nothingness...;Compile+yourself..." />
 </p>
 
 
