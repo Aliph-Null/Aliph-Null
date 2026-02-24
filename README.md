@@ -25,7 +25,7 @@ Leveling up daily...
 > current_status
 Compiling...
 ```
-
+<p align="center"><br></p>
 <div align="center"> 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/> 
 	<img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60"/>
@@ -37,15 +37,10 @@ Compiling...
 	<img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60"/> 
 	<img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/>
 </div>
-
-<p align="center">
-	<br>
-	<br>
-	<br>
-</p>
+<p align="center"><br></p>
 
 <p align="center"> 
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=shadow_red&hide_border=true&ring=CB2D3E&fire=FF4A4A&currStreakLabel=CB2D3E&text_color=EF473A&background=0d0d0d00&hide_border=true"/>
+	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=shadow_red&hide_border=true&ring=CB2D3E&fire=FF4A4A&currStreakLabel=CB2D3E&text_color=EF473A&background=0d0d0d00&hide_border=true&title_color=FFFFFF&icon_color=FF00FF"/>
 </p>
 
 <p align="center">
