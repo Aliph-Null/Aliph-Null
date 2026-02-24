@@ -44,7 +44,7 @@ Compiling...
 </p>
 
 <p align="center">
-	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=3&theme=shadow_red&title_color=CB2D3E&text_color=e6edf3&icon_color=ff7b72&bg_color=00000000&combine_all_yearly_contributions=false&hide_border=true"/>
+	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=3&theme=shadow_red&title_color=ff7b72&text_color=EF473A&icon_color=CB2D3E&bg_color=00000000&combine_all_yearly_contributions=false&hide_border=true"/>
 </p>
 
 <p align="center">
