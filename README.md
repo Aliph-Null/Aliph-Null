@@ -38,20 +38,16 @@ Compiling...
 	<img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/>
 </div>
 
-<p align="center"> 
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=default&hide_border=true&ring=0969da&fire=1f6feb&currStreakLabel=57606a&background=ffffff"/>
-</p>
-
 <p align="center">
-	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=5&theme=default&title_color=0969da&bg_color=ffffff&combine_all_yearly_contributions=true"/>
+	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=5&theme=github_dark&title_color=f85149&bg_color=transparent&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/denis-bodrug/">
-		<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0969da&labelColor=f6f8fa"/>
+		<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f85149&labelColor=0d1117"/>
 	</a> 
 	<a href="https://patreon.com/Aliph_Null">
-		<img src="https://img.shields.io/badge/Patreon-ffffff?style=for-the-badge&logo=patreon&logoColor=1f6feb&labelColor=f6f8fa"/>
+		<img src="https://img.shields.io/badge/Patreon-0d1117?style=for-the-badge&logo=patreon&logoColor=f85149&labelColor=0d1117"/>
 	</a>
 </p>
 
