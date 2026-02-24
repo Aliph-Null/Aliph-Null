@@ -40,11 +40,11 @@ Compiling...
 
 
 <p align="center"> 
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=dark&hide_border=true&ring=CB2D3E&fire=FF4A4A&currStreakLabel=CB2D3E&background=0d0d0d00"/>
+	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=shadow_red&hide_border=true&ring=CB2D3E&fire=FF4A4A&currStreakLabel=CB2D3E&background=0d0d0d00&hide_border=true"/>
 </p>
 
 <p align="center">
-	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=3&theme=dark&title_color=CB2D3E&bg_color=0d0d0d00&combine_all_yearly_contributions=false"/>
+	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=3&theme=shadow_red&title_color=CB2D3E&bg_color=0d0d0d00&combine_all_yearly_contributions=false&hide_border=true"/>
 </p>
 
 <p align="center">
