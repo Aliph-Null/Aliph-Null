@@ -38,21 +38,21 @@ Compiling...
 	<img width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60"/>
 </div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aliph-Null&theme=radical&hide_border=true&include_all_commits=true&title_color=ff2e2e&text_color=ffffff&icon_color=ff2e2e&bg_color=0d0d0d"/> 
-</p>
-
 <p align="center"> 
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=dark&hide_border=true&ring=ff2e2e&fire=ff2e2e&currStreakLabel=ff2e2e&background=0d0d0d"/>
+	<img src="https://nirzak-streak-stats.vercel.app/?user=Aliph-Null&theme=default&hide_border=true&ring=0969da&fire=1f6feb&currStreakLabel=57606a&background=ffffff"/>
 </p>
 
 <p align="center">
-	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=5&theme=dark&title_color=ff2e2e&bg_color=0d0d0d&combine_all_yearly_contributions=true"/>
+	<img src="https://github-contributor-stats.vercel.app/api?username=Aliph-Null&limit=5&theme=default&title_color=0969da&bg_color=ffffff&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/denis-bodrug/"> <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ff2e2e"/> </a> 
-	<a href="https://patreon.com/Aliph_Null"> <img src="https://img.shields.io/badge/Patreon-1a1a1a?style=for-the-badge&logo=patreon&logoColor=ff2e2e"/> </a>
+	<a href="https://www.linkedin.com/in/denis-bodrug/">
+		<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0969da&labelColor=f6f8fa"/>
+	</a> 
+	<a href="https://patreon.com/Aliph_Null">
+		<img src="https://img.shields.io/badge/Patreon-ffffff?style=for-the-badge&logo=patreon&logoColor=1f6feb&labelColor=f6f8fa"/>
+	</a>
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:CB2D3E,50:EF473A,100:FF4545"/> </p> 
